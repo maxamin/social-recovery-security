@@ -1,0 +1,7 @@
+[book]
+title = "Wallet Recovery and Social Recovery Security"
+language = "en"
+src = "."
+
+[output.html]
+git-repository-url = "https://github.com/<you>/social-recovery-security"
